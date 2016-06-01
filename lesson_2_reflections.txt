@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git folder is created in the directory. I should open Terminal, change the directory to the one where I would like to initialize a repository and use the commande git init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area lets us choose the files for the next commit. We can't track changes of the files in the working directory. If there is no staging area, we should commit all the files which are in the working directory
