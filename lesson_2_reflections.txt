@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area lets us choose the files for the next commit. We can't track changes of the files in the working directory. If there is no staging area, we should commit all the files which are in the working directory
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can check the difference between working directory and staging are, staging area and repository to remind myself what commits I've done
