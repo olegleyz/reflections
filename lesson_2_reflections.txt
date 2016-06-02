@@ -9,3 +9,6 @@ I can check the difference between working directory and staging are, staging ar
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would be helpful when the some new experiment is started which might or might not further be merged with the main flow of development 
+
+How do the diagrams help you visualize the branch structure?
+We can use diagrams to visualize all the commits in branches: when they were created and what's the progress there
