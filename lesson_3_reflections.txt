@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+I'm creating a remote repository when I want to share my work with someone else (f.ex. submit my Udacity project for review) or start working on the project in a team.
